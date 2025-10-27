@@ -1,1 +1,1 @@
-print('Hello 3 v3 Login')
+print('Hello 3 v3')
